@@ -1,9 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Mohd Danish</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="center" alt="Coding" width="600" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="center" alt="Coding" width="900" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohddanish007&label=Profile%20views&color=0e75b6&style=flat" alt="mohddanish007" /> </p>
 
