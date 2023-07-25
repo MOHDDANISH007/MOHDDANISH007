@@ -1,7 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohd Danish</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="center" alt="Coding" width="900" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohddanish007&label=Profile%20views&color=0e75b6&style=flat" alt="mohddanish007" /> </p>
 
@@ -15,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-danish-5420b024b/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-danish-5420b024b/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/danish_khannnnnnnnnnnn?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/danish_khannnnnnnnnnnn?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-danish-5420b024b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-danish-5420b024b/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/danish_khannnnnnnnnnnn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/danish_khannnnnnnnnnnn/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/m_danish00707?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/m_danish00707?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/user4987tb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user4987tb/" height="30" width="40" /></a>
 </p>
