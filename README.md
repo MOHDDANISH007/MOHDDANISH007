@@ -2,7 +2,7 @@
 <h3 align="center">AI Software Developer | Machine Learning | Learning Deep Learning</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="500"/>
+  <img align="center" alt="Coding" width="900" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 </p>
 
 <p align="center">
