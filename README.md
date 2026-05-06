@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Danish</h1>
-<h3 align="center">🚀 Software Developer with AI Integration | Crafting Intelligent Web Solutions</h3>
+<h3 align="center">AI Software Developer | Machine Learning | Learning Deep Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+AI+Enthusiast;Full-Stack+%2B+Machine+Learning;3x+Hackathon+Finalist+%7C+Published+Researcher;Building+Smart%2C+Scalable+Applications" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FjNTh2eWZ6bXc4cG5pY2x6d2R4cHZvN2Z1cGpkZzZ0cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cW5hbWU9Y29kaW5nLmdpZg&ep=rM&rid=coding.gif&ct=g" alt="Coding" width="600"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="500"/>
 </p>
 
 <p align="center">
@@ -19,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm **Mohd. Danish** — a passionate Software Developer specializing in **AI-integrated web applications**. I love building intelligent, scalable solutions that solve real-world problems.
+Hello! I'm **Mohd. Danish** — an AI Software Developer with strong knowledge in **Machine Learning** and currently learning **Deep Learning**. I build intelligent web applications that solve real-world problems.
 
 📍 **Lucknow, India** (UTC +05:30)
 
@@ -40,7 +36,7 @@ Hello! I'm **Mohd. Danish** — a passionate Software Developer specializing in 
 
 ### 🛠️ Technical Skills
 
-#### 🤖 Machine Learning & AI
+#### 🤖 Machine Learning (Strong Knowledge)
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
@@ -51,7 +47,7 @@ Hello! I'm **Mohd. Danish** — a passionate Software Developer specializing in 
   <img src="https://img.shields.io/badge/PCA-563D7C?style=for-the-badge&logo=pca&logoColor=white" alt="PCA" />
 </p>
 
-#### 🧠 Deep Learning
+#### 🧠 Deep Learning (Currently Learning)
 <p align="left">
   <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="CNN" />
   <img src="https://img.shields.io/badge/Vision_Transformers-5A29E4?style=for-the-badge&logo=huggingface&logoColor=white" alt="Vision Transformers" />
@@ -59,16 +55,15 @@ Hello! I'm **Mohd. Danish** — a passionate Software Developer specializing in 
   <img src="https://img.shields.io/badge/LSTM-FF4785?style=for-the-badge&logo=lstm&logoColor=white" alt="LSTM" />
 </p>
 
-#### 📊 Data Science & MLOps
+#### 📊 Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Scikit--learn_Pipelines-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Pipelines" />
 </p>
 
-#### 💻 Programming Languages
+#### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -77,7 +72,7 @@ Hello! I'm **Mohd. Danish** — a passionate Software Developer specializing in 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-#### 🌐 Frontend Development
+#### 🌐 Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -85,7 +80,6 @@ Hello! I'm **Mohd. Danish** — a passionate Software Developer specializing in 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
 #### ⚙️ Backend & Databases
@@ -99,7 +93,7 @@ Hello! I'm **Mohd. Danish** — a passionate Software Developer specializing in 
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
 </p>
 
-#### ☁️ DevOps & Infrastructure
+#### ☁️ DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -109,7 +103,7 @@ Hello! I'm **Mohd. Danish** — a passionate Software Developer specializing in 
   <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
-#### 🤖 AI Integrations & Automation
+#### 🤖 AI Integrations
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
   <img src="https://img.shields.io/badge/Groq_API-FF6600?style=for-the-badge&logo=groq&logoColor=white" alt="Groq API" />
@@ -127,16 +121,16 @@ Hello! I'm **Mohd. Danish** — a passionate Software Developer specializing in 
 
 | Project | Tech Stack | Highlights |
 |:---|:---|:---|
-| **[AI Code Reviewer](https://github.com/MOHDDANISH007/ai-code-reviewer)** | Node.js, Express, MongoDB, RabbitMQ, Docker, Cerebras, Groq | Dual-model AI architecture • MCP server • One-click GitHub integration • 📄 [Published Paper](https://doi.org/10.62896/ijmsi.2.1.18) |
-| **[SmartSpendMoneyWithAI](https://github.com/MOHDDANISH007/smart-spend-money)** | React, Next.js, Node.js, MongoDB, Groq, LLaMA 3, Fi MCP | AI financial assistant • Scenario simulations • RAISE YOUR HACK 2025 Finalist |
-| **[GameKart](https://github.com/MOHDDANISH007/gamekart)** | Next.js, React, Node.js, MongoDB, JWT, Tailwind | AI-powered game recommendations • Full e-commerce with CI/CD |
-| **[TripAdvisor Clone](https://github.com/MOHDDANISH007/tripadvisor-clone)** | Next.js, Tailwind, Google Gemini AI | Pixel Hackathon Winner (SF, USA) • Photo rewards • AI travel experiences |
-| **[Multimodal AI Workflow Builder](https://github.com/MOHDDANISH007/multimodal-ai-workflow)** | Next.js, Google Gemini API, Tailwind, Transloadit | Drag-and-drop visual pipelines • Image/Video processing |
-| **[Real-Time Chat App](https://github.com/MOHDDANISH007/chat-app)** | React, Node.js, Socket.io, MongoDB, Cloudinary | Google OAuth • Real-time messaging • Image uploads • Trigger.dev jobs |
+| **[AI Code Reviewer](https://github.com/MOHDDANISH007/ai-code-reviewer)** | Node.js, Express, MongoDB, RabbitMQ, Docker, Cerebras, Groq | Dual-model AI • MCP server • [📄 Paper](https://doi.org/10.62896/ijmsi.2.1.18) |
+| **[SmartSpendMoneyWithAI](https://github.com/MOHDDANISH007/smart-spend-money)** | React, Next.js, Node.js, MongoDB, Groq, LLaMA 3 | AI financial assistant • RAISE YOUR HACK 2025 Finalist |
+| **[GameKart](https://github.com/MOHDDANISH007/gamekart)** | Next.js, React, Node.js, MongoDB, JWT, Tailwind | AI game recommendations • Full e-commerce |
+| **[TripAdvisor Clone](https://github.com/MOHDDANISH007/tripadvisor-clone)** | Next.js, Tailwind, Google Gemini AI | Pixel Hackathon Winner (SF, USA) |
+| **[Multimodal AI Workflow](https://github.com/MOHDDANISH007/multimodal-ai-workflow)** | Next.js, Google Gemini, Tailwind, Transloadit | Drag-and-drop visual pipelines |
+| **[Real-Time Chat App](https://github.com/MOHDDANISH007/chat-app)** | React, Node.js, Socket.io, MongoDB, Cloudinary | Google OAuth • Trigger.dev jobs |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohddanish007&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
@@ -149,7 +143,7 @@ Hello! I'm **Mohd. Danish** — a passionate Software Developer specializing in 
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/mohd-danish-5420b024b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -162,4 +156,4 @@ Hello! I'm **Mohd. Danish** — a passionate Software Developer specializing in 
 
 ---
 
-*⭐️ Open to collaborations, research opportunities, and full-time roles in AI/ML, Financial AI, Medical Imaging, and Software Engineering with AI Integration.*
+*Open to collaborations, research opportunities, and full-time roles.*
