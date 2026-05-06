@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammad Danish</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI/ML Enthusiast </h3>
+<h3 align="center">🚀 Software Developer with AI Integration | Crafting Intelligent Web Solutions</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding" width="600"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+AI+Enthusiast;Full-Stack+%2B+Machine+Learning;3x+Hackathon+Finalist+%7C+Published+Researcher;Building+Smart%2C+Scalable+Applications" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FjNTh2eWZ6bXc4cG5pY2x6d2R4cHZvN2Z1cGpkZzZ0cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cGZ6cW5hbWU9Y29kaW5nLmdpZg&ep=rM&rid=coding.gif&ct=g" alt="Coding" width="600"/>
 </p>
 
 <p align="center">
@@ -15,9 +19,7 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm **Mohd. Danish** — a passionate developer currently pursuing my **M.Tech in Computer Science & Engineering** at Integral University, Lucknow. I hold a **B.Tech (CSE) with AI & Cloud Computing** (CGPA: 8.6/10).
-
-I specialize in building **scalable web applications** and exploring **AI/ML solutions** for real-world problems. I've been recognized as a **Pixel Hackathon Winner (San Francisco, USA)** and a **Finalist at RAISE YOUR HACK 2025 (Paris, France)** .
+Hello! I'm **Mohd. Danish** — a passionate Software Developer specializing in **AI-integrated web applications**. I love building intelligent, scalable solutions that solve real-world problems.
 
 📍 **Lucknow, India** (UTC +05:30)
 
@@ -27,12 +29,12 @@ I specialize in building **scalable web applications** and exploring **AI/ML sol
 
 ---
 
-### 🏆 Achievements at a Glance
+### 🏆 Achievements
 
-| 🏆 Pixel Hackathon Winner | 🇫🇷 RAISE YOUR HACK 2025 Finalist | 📄 Peer-Reviewed Publication |
+| 🏆 Pixel Hackathon Winner | 🇫🇷 RAISE YOUR HACK 2025 Finalist | 📄 Research Publication |
 |:---:|:---:|:---:|
 | San Francisco, USA | Paris, France | AI Code Reviewer (IJMSI) |
-| MacBook M4 Pro Prize | Top 300 / 15,000+ | DOI: 10.62896/ijmsi.2.1.18 |
+| MacBook M4 Pro Prize | Top 300 / 15,000+ | [DOI: 10.62896/ijmsi.2.1.18](https://doi.org/10.62896/ijmsi.2.1.18) |
 
 ---
 
@@ -47,16 +49,14 @@ I specialize in building **scalable web applications** and exploring **AI/ML sol
   <img src="https://img.shields.io/badge/KNN-0078D4?style=for-the-badge&logo=knn&logoColor=white" alt="KNN" />
   <img src="https://img.shields.io/badge/K--Means-4B8BBE?style=for-the-badge&logo=k-means&logoColor=white" alt="K-Means" />
   <img src="https://img.shields.io/badge/PCA-563D7C?style=for-the-badge&logo=pca&logoColor=white" alt="PCA" />
-  <img src="https://img.shields.io/badge/Feature_Engineering-FFD700?style=for-the-badge&logo=features&logoColor=black" alt="Feature Engineering" />
 </p>
 
-#### 🧠 Deep Learning (Exploring)
+#### 🧠 Deep Learning
 <p align="left">
   <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="CNN" />
   <img src="https://img.shields.io/badge/Vision_Transformers-5A29E4?style=for-the-badge&logo=huggingface&logoColor=white" alt="Vision Transformers" />
   <img src="https://img.shields.io/badge/U--Net-008080?style=for-the-badge&logo=unet&logoColor=white" alt="U-Net" />
   <img src="https://img.shields.io/badge/LSTM-FF4785?style=for-the-badge&logo=lstm&logoColor=white" alt="LSTM" />
-  <img src="https://img.shields.io/badge/Time_Series-007ACC?style=for-the-badge&logo=timeseries&logoColor=white" alt="Time Series" />
 </p>
 
 #### 📊 Data Science & MLOps
@@ -66,7 +66,6 @@ I specialize in building **scalable web applications** and exploring **AI/ML sol
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Scikit--learn_Pipelines-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Pipelines" />
-  <img src="https://img.shields.io/badge/Model_Serialization-000000?style=for-the-badge&logo=pickle&logoColor=white" alt="Model Serialization" />
 </p>
 
 #### 💻 Programming Languages
@@ -110,7 +109,7 @@ I specialize in building **scalable web applications** and exploring **AI/ML sol
   <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
-#### 🤖 AI Integrations & APIs
+#### 🤖 AI Integrations & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
   <img src="https://img.shields.io/badge/Groq_API-FF6600?style=for-the-badge&logo=groq&logoColor=white" alt="Groq API" />
@@ -118,6 +117,8 @@ I specialize in building **scalable web applications** and exploring **AI/ML sol
   <img src="https://img.shields.io/badge/MCP_Protocol-4A90E2?style=for-the-badge&logo=mcp&logoColor=white" alt="MCP" />
   <img src="https://img.shields.io/badge/Cerebras_API-5C3EE8?style=for-the-badge&logo=cerebras&logoColor=white" alt="Cerebras" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Trigger.dev-FF2D20?style=for-the-badge&logo=trigger&logoColor=white" alt="Trigger.dev" />
+  <img src="https://img.shields.io/badge/Transloadit-4B32C3?style=for-the-badge&logo=transloadit&logoColor=white" alt="Transloadit" />
 </p>
 
 ---
@@ -126,20 +127,12 @@ I specialize in building **scalable web applications** and exploring **AI/ML sol
 
 | Project | Tech Stack | Highlights |
 |:---|:---|:---|
-| **[AI Code Reviewer](https://github.com/MOHDDANISH007/ai-code-reviewer)** | Node.js, Express, MongoDB, RabbitMQ, Docker, Cerebras, Groq | Dual-model AI for real-time code analysis • MCP server for natural language queries • One-click GitHub integration |
+| **[AI Code Reviewer](https://github.com/MOHDDANISH007/ai-code-reviewer)** | Node.js, Express, MongoDB, RabbitMQ, Docker, Cerebras, Groq | Dual-model AI architecture • MCP server • One-click GitHub integration • 📄 [Published Paper](https://doi.org/10.62896/ijmsi.2.1.18) |
 | **[SmartSpendMoneyWithAI](https://github.com/MOHDDANISH007/smart-spend-money)** | React, Next.js, Node.js, MongoDB, Groq, LLaMA 3, Fi MCP | AI financial assistant • Scenario simulations • RAISE YOUR HACK 2025 Finalist |
 | **[GameKart](https://github.com/MOHDDANISH007/gamekart)** | Next.js, React, Node.js, MongoDB, JWT, Tailwind | AI-powered game recommendations • Full e-commerce with CI/CD |
 | **[TripAdvisor Clone](https://github.com/MOHDDANISH007/tripadvisor-clone)** | Next.js, Tailwind, Google Gemini AI | Pixel Hackathon Winner (SF, USA) • Photo rewards • AI travel experiences |
-| **[Multimodal AI Workflow Builder](https://github.com/MOHDDANISH007/multimodal-ai-workflow)** | Next.js, Google Gemini API, Tailwind | Drag-and-drop visual pipelines • Text/Image/Video processing |
-| **[Real-Time Chat App](https://github.com/MOHDDANISH007/chat-app)** | React, Node.js, Socket.io, MongoDB, Cloudinary | Google OAuth • Real-time messaging • Image uploads |
-
----
-
-### 📄 Peer-Reviewed Publication
-
-> **Mohd Danish**, Mohmmad Kashif, Al Zaid, Saman Khan. *"AI Code Reviewer: Real-Time Code Analysis with GitHub Integration."*  
-> **International Journal of Multidisciplinary Science and Innovation (IJMSI)**, Vol. 2, Issue 1, pp. 137–144, Jan–Jun 2026.  
-> **DOI:** [10.62896/ijmsi.2.1.18](https://doi.org/10.62896/ijmsi.2.1.18) | **ISSN:** 3107-5754
+| **[Multimodal AI Workflow Builder](https://github.com/MOHDDANISH007/multimodal-ai-workflow)** | Next.js, Google Gemini API, Tailwind, Transloadit | Drag-and-drop visual pipelines • Image/Video processing |
+| **[Real-Time Chat App](https://github.com/MOHDDANISH007/chat-app)** | React, Node.js, Socket.io, MongoDB, Cloudinary | Google OAuth • Real-time messaging • Image uploads • Trigger.dev jobs |
 
 ---
 
@@ -169,4 +162,4 @@ I specialize in building **scalable web applications** and exploring **AI/ML sol
 
 ---
 
-*⭐️ Feel free to explore my repositories and connect with me! I'm open to collaborations, research opportunities, and full-time roles in AI/ML, Financial AI, Medical Imaging, and Software Engineering.*
+*⭐️ Open to collaborations, research opportunities, and full-time roles in AI/ML, Financial AI, Medical Imaging, and Software Engineering with AI Integration.*
