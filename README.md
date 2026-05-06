@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Danish</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI/ML Enthusiast | M.Tech CSE @ Integral University</h3>
+<h3 align="center">🚀 Full-Stack Developer | AI/ML Enthusiast </h3>
 
 <p align="center">
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding" width="600"/>
